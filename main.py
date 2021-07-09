@@ -2,9 +2,9 @@ from tkinter import *
 import time
 
 # change this three variables to change the size of all widgets
-n = 100
-m = 150
-square_size = 9
+n = 80
+m = 100
+square_size = 11
 
 dead = 'white'
 alive = 'black'
